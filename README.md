@@ -2,4 +2,4 @@
 Hello there!\
 This repository holds my programing projects done during the Python learning course\
 
-Watch my *[SC001/SC001_workshop](link)*
+Watch my *[SC001/SC001_workshop](link)*https://github.com/jiayang24/python/tree/main/SC001/SC001_workshop
